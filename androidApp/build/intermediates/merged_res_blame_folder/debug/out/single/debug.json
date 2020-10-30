@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/holuong/Desktop/ListApp/androidApp/build/intermediates/res/merged/debug/layout_fragment_item_list.xml.flat",
+        "source": "/Users/holuong/Desktop/ListApp/androidApp/src/main/res/layout/fragment_item_list.xml"
+    },
+    {
+        "merged": "/Users/holuong/Desktop/ListApp/androidApp/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/holuong/Desktop/ListApp/androidApp/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/holuong/Desktop/ListApp/androidApp/build/intermediates/res/merged/debug/layout_fragment_item.xml.flat",
+        "source": "/Users/holuong/Desktop/ListApp/androidApp/src/main/res/layout/fragment_item.xml"
+    }
+]
